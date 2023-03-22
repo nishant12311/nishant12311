@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Javascript , Figma**
 
-- 💬 Ask me about **react , Figma ,css**
+- 💬 Ask me about **Front-End Development and Web Designing**
 
 - 📫 How to reach me **nishantchapagai65@gmail.com**
 
-- ⚡ Fun fact **I am Dumb .**
+- ⚡ Fun fact **I am Dumb.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
